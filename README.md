@@ -96,9 +96,9 @@ cd AI-BASED-REAL-ESTATE-VALUATION-SYSTEM
 python -m venv venv
 
 # Activate virtual environment
-# On Windows:
+# On Windows -
 venv\Scripts\activate
-# On macOS/Linux:
+# On macOS/Linux -
 source venv/bin/activate
 ```
 
@@ -220,6 +220,7 @@ The final model demonstrates strong predictive capability -
 - Random Forest and XGBoost outperform linear models.
 - Suburban areas show higher price variability.
 - Model generalizes well across different property types.
+
 
 
 
