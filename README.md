@@ -209,15 +209,25 @@ The final model demonstrates strong predictive capability -
 | Mean Absolute Error | ~$15,000 |
 | Root Mean Squared Error | ~$25,000 |
 
+**Analysis**
+
+<table>
+  <tr>
+    <td align="center"><img src="Visualizations/1.png" width="500"></td>
+    <td align="center"><img src="Visualizations/2.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/3.png" width="500"></td>
+    <td align="center"><img src="Visualizations/4.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/5.png" width="500"></td>
+    <td align="center"><img src="Visualizations/6.png" width="500"></td>
+  </tr>
+</table>
+
 **Key Insights** -
 - Location and area are the strongest price predictors.
 - Random Forest and XGBoost outperform linear models.
 - Suburban areas show higher price variability.
 - Model generalizes well across different property types.
-
-
-
-
-
-
-
