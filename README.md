@@ -172,11 +172,11 @@ jupyter notebook "Model Building & Evaluation.ipynb"
 - Mean Squared Error (MSE).
 - R² Score.
 
-**Output** - `regression_model.pkl` - Serialized best-performing model
+**Output** - `regression_model.pkl`(Serialized best-performing model).
 
 ### Module 3 - User Interface
 
-**Components**:
+**Components** -
 - **Authentication** - Secure login/register system.
 - **Buyer Dashboard** - Property search, valuations, favorites, EMI calculator.
 - **Seller Dashboard** - Property listing and valuation tools.
@@ -214,6 +214,7 @@ The final model demonstrates strong predictive capability -
 - Random Forest and XGBoost outperform linear models.
 - Suburban areas show higher price variability.
 - Model generalizes well across different property types.
+
 
 
 
