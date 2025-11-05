@@ -213,8 +213,8 @@ The final model demonstrates strong predictive capability -
 
 <table>
   <tr>
-    <td align="center"><img src="Visualizations/1.png" width="500"></td>
     <td align="center"><img src="Visualizations/2.png" width="500"></td>
+    <td align="center"><img src="Visualizations/4.png" width="500"></td>
   </tr>
   <tr>
     <td align="center"><img src="Visualizations/3.png" width="500"></td>
@@ -231,3 +231,4 @@ The final model demonstrates strong predictive capability -
 - Random Forest and XGBoost outperform linear models.
 - Suburban areas show higher price variability.
 - Model generalizes well across different property types.
+
