@@ -218,17 +218,18 @@ The final model demonstrates strong predictive capability -
   </tr>
   <tr>
     <td align="center"><img src="Visualizations/3.png" width="500"></td>
-    <td align="center"><img src="Visualizations/4.png" width="500"></td>
-  </tr>
-  <tr>
     <td align="center"><img src="Visualizations/5.png" width="500"></td>
-    <td align="center"><img src="Visualizations/6.png" width="500"></td>
   </tr>
-</table>
+  </table>
+  <p align="center">
+    <img src="Visualizations/1.png" alt="1" style="width:100%; max-width:500px; height:auto;"/>
+  </p>
+  <p align="center">
+    <img src="Visualizations/6.png" alt="1" style="width:100%; max-width:500px; height:auto;"/>
+  </p>
 
 **Key Insights** -
 - Location and area are the strongest price predictors.
 - Random Forest and XGBoost outperform linear models.
 - Suburban areas show higher price variability.
 - Model generalizes well across different property types.
-
