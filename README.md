@@ -109,6 +109,7 @@ cd "UI (Module 3)"
 npm install
 npm start
 ```
+The application will open at `http://localhost:3000`
 
 ## 💻 Usage
 
@@ -138,13 +139,6 @@ jupyter notebook "Model Building & Evaluation.ipynb"
 # Run all cells to train and save the model
 # Output - regression_model.pkl
 ```
-
-The application will open at `http://localhost:3000`
-
-### Connecting to Backend API
-
-Update the API endpoint in `src/Services/api.js`:
-
 
 ## 📚 Modules
 
@@ -220,6 +214,7 @@ The final model demonstrates strong predictive capability -
 - Random Forest and XGBoost outperform linear models.
 - Suburban areas show higher price variability.
 - Model generalizes well across different property types.
+
 
 
 
