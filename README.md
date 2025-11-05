@@ -1,4 +1,4 @@
-# 🏡 AI-Based Real Estate Valuation System
+# 🏡AI-Based Real Estate Valuation System
 
 The AI-Based Real Estate Valuation System is an end-to-end machine learning solution that predicts property prices based on features such as location, area, bedrooms, amenities and more. The platform empowers buyers and sellers with data-driven property valuations through an intuitive web interface.
 
@@ -11,7 +11,16 @@ The AI-Based Real Estate Valuation System is an end-to-end machine learning solu
 - 💰 **EMI Calculator** - Built-in loan planning tool.
 - 💬 **AI Chatbot** - Intelligent assistant for property queries.
 
-## 🖼️ Screenshots
+## 🖼️ Quick Glance
+
+<p align="center">
+  <img src="Images/1.png" alt="1" width="1000"/><br>
+  <img src="Images/2.png" alt="2" width="1000"/><br>
+  <img src="Images/3.png" alt="3" width="1000"/><br>
+  <img src="Images/4.png" alt="4" width="1000"/><br>
+  <img src="Images/5.png" alt="5" width="1000"/><br>
+  <img src="Images/6.png" alt="6" width="1000"/><br>
+</p>
 
 ## ✨ Features
 
@@ -211,9 +220,6 @@ The final model demonstrates strong predictive capability -
 - Random Forest and XGBoost outperform linear models.
 - Suburban areas show higher price variability.
 - Model generalizes well across different property types.
-
-
-
 
 
 
