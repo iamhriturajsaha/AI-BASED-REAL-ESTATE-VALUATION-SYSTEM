@@ -238,3 +238,4 @@ The final model demonstrates strong predictive capability -
 - Multi-language Support - Localization for regional languages across India.
 - Investment Analysis Dashboard - ROI calculator, Rental yield estimator and Investment recommendations.
 - Market Sentiment Analysis - Social media and news sentiment affecting property prices.
+
